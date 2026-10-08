@@ -1,0 +1,17 @@
+node_modules
+dist
+dist-server
+.env
+.env.local
+*.log
+.DS_Store
+coverage
+.vite
+prisma/*.db
+prisma/*.db-journal
+*.db
+*.db-journal
+tsconfig.tsbuildinfo
+.idea
+.vscode
+_product_extract
